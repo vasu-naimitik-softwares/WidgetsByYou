@@ -12,6 +12,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
+#### Location Data
+Widgets by You requires permission to read location in the background to show location and weather information on widgets. This data may also used to support Ads by the ads providers. Please read the privacy policies linked below for how they use location data.
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
